@@ -1,0 +1,5 @@
+question,sql_generated,sql_valid,execution_success,status
+What are the top 5 products by revenue?,Yes,Yes,Yes,PASS
+What is the total revenue?,Yes,Yes,Yes,PASS
+What is the revenue by region?,Yes,Yes,Yes,PASS
+What are the top customers?,Yes,Yes,Yes,PASS
